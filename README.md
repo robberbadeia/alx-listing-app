@@ -41,7 +41,7 @@ Follow these steps to run the ALX Listing App locally:
 
 This will start the app locally. You can now open your browser and visit http://localhost:3000 to view the ALX Listing App.
 
-MIT License
+## MIT License
 
 Copyright (c) [2024] [robberbadeia]
 
